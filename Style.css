@@ -17,6 +17,7 @@ section{
 }
 .half-width img{
     width: 80%;
+    height: 70%;
 }
 .link-button{
     text-decoration: none;
@@ -25,5 +26,20 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 900;
-
+}
+.one-third{
+    width: 33%;
+    padding-left: 2%;
+}
+.one-third img{
+    width: 25%;
+}
+.mission{
+    text-align: center;
+}
+.forty-sixty{
+    width: 50%;
+}
+.forty-sixty img{
+    width: 60%;
 }
