@@ -50,7 +50,7 @@ section{
     width: 80%;
 }
 .forty-sixty img{
-    width: 80%;
+    width: 100%;
 }
 .last-port{
     width: 50%;
@@ -62,4 +62,10 @@ section{
 }
 .f-last{
     text-align: center;
+}
+.side-banner{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-position-y: center;
 }
